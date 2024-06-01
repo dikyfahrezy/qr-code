@@ -35,6 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 Sedikit tricky untuk mengatasi lebar konten yang sama dari versi mobile dengan versi desktop. disini hanya membutuhkan property css berupa max-width tanpa perlu menggunakan media query untuk ukuran layar yang responsif.
+
 It's a little tricky to deal with the same content width of the mobile version as the desktop version. here you only need a CSS property in the form of max-width without the need to use media queries for responsive screen sizes.
 
 ```html

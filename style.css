@@ -15,7 +15,7 @@ body {
 body {
   font-family: "Outfit", "Helvetica Neue";
 }
-.container {
+main.container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,7 +24,7 @@ body {
   padding: 1rem;
   background-color: var(--light-gray);
 }
-main {
+header {
   background-color: white;
   display: flex;
   flex-direction: column;
